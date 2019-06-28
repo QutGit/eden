@@ -1,0 +1,39 @@
+@import './color.scss';
+
+.text-white{
+  color: $white!important;
+}
+.text-blue{
+  color: $blue!important;
+}
+.text-gray{
+  color: $gray!important;
+}
+.text-remark{
+  color: $remark!important;
+}
+
+.text-s{
+  font-size: 12px!important;
+}
+.text-m{
+  font-size: 14px!important;
+}
+.text-l{
+  font-size: 16px!important;
+}
+.text-xl{
+  font-size: 20px!important;
+}
+.text-xxl{
+  font-size: 22px!important;
+}
+.text-xxxl{
+  font-size: 30px!important;
+}
+.text-xxxxl{
+  font-size: 50px!important;
+}
+.text-max{
+  font-size: 70px!important;
+}
